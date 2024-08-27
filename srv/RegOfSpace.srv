@@ -1,0 +1,4 @@
+string plugin_name
+int32 n_regs
+---
+string[] regs_of_space_id
